@@ -1,0 +1,27 @@
+{
+  "name": "rpg90",
+  "version": "1.0.0",
+  "description": "petit projet de RPG 90's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kokotto3000/RPG90s.git"
+  },
+  "keywords": [
+    "RPG",
+    "RETRO",
+    "PIXEL"
+  ],
+  "author": "Kokotto3000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kokotto3000/RPG90s/issues"
+  },
+  "homepage": "https://github.com/Kokotto3000/RPG90s#readme",
+  "dependencies": {
+    "http-server": "^13.0.1"
+  }
+}
